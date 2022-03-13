@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Paulo Borges Lemes</h1>
 <h3 align="center">Embedded Software Engineer</h3>
 
-- 🔭 I’m currently working on [Multiple-IPC-App](https://github.com/jpblemes/Multiple-IPC-App)
+- 🔭 I’m currently working on [Multiple-IPC-Client-Server](https://github.com/jpblemes/Multiple-IPC-Client-Server)
 
 - 🌱 I’m currently learning **Linux device drivers**
 
