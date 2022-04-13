@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Paulo Borges Lemes</h1>
-<h3 align="center">Embedded Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on [Multiple-IPC-Client-Server](https://github.com/jpblemes/Multiple-IPC-Client-Server)
 
