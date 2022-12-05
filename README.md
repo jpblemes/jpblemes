@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Multiple-IPC-Client-Server](https://github.com/jpblemes/Multiple-IPC-Client-Server)
 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Yocto
 
 - 👯 I’m looking to collaborate on [Linux](https://github.com/torvalds/linux)
 
